@@ -1,7 +1,7 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
   "version": 1,
-  "test":"3333",
+  "test":"33334",
   "newProjectRoot": "projects",
   "projects": {
     "app": {
